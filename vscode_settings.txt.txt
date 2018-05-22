@@ -1,0 +1,16 @@
+    "workbench.colorTheme": "Devastate",
+    "vim.easymotion": true,
+    "vim.hlsearch": true,
+    "vim.leader": " ",
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors": {
+        "normal": "#268bd2",
+        "insert": "#d86602",
+        "visual": "#ba010b",
+        "replace": "#b58900"
+    },
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#ba010b",
+        "statusBar.noFolderBackground": "#ba010b",
+        "statusBar.debuggingBackground": "#ba010b"
+    }
