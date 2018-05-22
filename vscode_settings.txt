@@ -1,3 +1,4 @@
+{
     "workbench.colorTheme": "Devastate",
     "vim.easymotion": true,
     "vim.hlsearch": true,
@@ -14,3 +15,4 @@
         "statusBar.noFolderBackground": "#ba010b",
         "statusBar.debuggingBackground": "#ba010b"
     }
+}
